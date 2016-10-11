@@ -9,7 +9,6 @@ int main()
         length = strlen(str);
         for(i = length-1; i >= 0; i--)
             printf("%c",str[i]);
-
             printf("\n");
     }
 
